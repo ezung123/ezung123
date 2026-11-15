@@ -249,13 +249,32 @@ I believe in building **truthful, measurable, and deployable systems**—whether
 
 ---
 
-### 📜 Technical Accolades & Core Competencies
+### ⚡ Technical Accolades & Production Focus
+
+<div align="center">
+
+| Core Specialization | Hackathon Honors | Primary Deep Learning Stack | Real-Time Latency |
+| :---: | :---: | :---: | :---: |
+| **Computer Vision & Geospatial ML** | **Meta Global AI Hackathon 2026** | **PyTorch & Ultralytics YOLOv8** | **< 45ms Real-Time CPU** |
+
+</div>
 
 - 🏆 **Competitor & Finalist** &bull; *Meta Global AI Developer Hackathon 2026* (Cephalometric AI, MediaPipe 468 3D Cranial Landmarks & Meta Muse Spark Reasoning &bull; *Biometric Hair Arch*)
 - 🗺️ **MoRTH Geospatial Risk Protocol** &bull; *Smart Cities & Road Safety Engineering* (IRC:SP:88-2019 Blackspot Spatial Clustering & Crash Severity Indexing &bull; *SafeRouteAi*)
 - 👁️ **Computer Vision & Object Detection** &bull; *Ultralytics YOLOv8 & PyTorch* (Real-Time Multi-Class Localization, CIoU/DFL Losses & Sub-45ms CPU Inference &bull; *YOLO Vision Platform*)
 - 🧠 **Indic Natural Language Processing** &bull; *Information Retrieval & Text Processing* (Damerau-Levenshtein Fuzzy Matching & Character N-Gram TF-IDF Architecture &bull; *BiDict*)
 - 📊 **Exploratory Data Analysis & Quant Analytics** &bull; *Statistical Data Science* (Multi-Decade Global Streaming Trends, Technical Indicator Modeling & Volatility Risk Management)
+
+---
+
+### 🔭 Current Research & Active Horizons
+
+- 🚀 **Edge AI & Quantization:** Benchmarking YOLOv8 backbones with TensorRT and ONNX INT8 quantization for sub-20ms edge compute.
+- 👁️ **3D Cranial Cephalometrics:** Extending 468-point facial landmark meshes into 3D volumetric AR occlusion models (*Biometric Hair Arch*).
+- 🗺️ **Spatio-Temporal Hazard AI:** Formulating Graph Neural Networks (GNNs) on urban highway accident networks under MoRTH standards.
+- 🧠 **Multimodal Reasoning:** Architecting production inference pipelines integrating Meta Llama 3.2 Vision & open-weights models.
+
+> *"Building truthful, measurable, and deployable AI systems that bridge rigorous mathematical foundations with real-world impact."*
 
 ---
 
