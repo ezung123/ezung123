@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
   <!-- Typing SVG Header -->
   <a href="https://github.com/ezung123">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=660&height=60&lines=Hi%2C+I'm+Zaren+Ezung+%F0%9F%91%8B;Data+Scientist+%26+Machine+Learning+Engineer+%F0%9F%A7%A0;Competitor+%40+Meta+Global+AI+Hackathon+2026+%F0%9F%8F%86;Computer+Vision+%26+Deep+Learning+(PyTorch%2FYOLO)+%F0%9F%91%81%EF%B8%8F;Building+Production-Grade+AI+Systems+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&height=60&lines=Hi%2C+I'm+Yanthungremo+Ezung+%F0%9F%91%8B;Data+Scientist+%26+Machine+Learning+Engineer+%F0%9F%A7%A0;Competitor+%40+Meta+Global+AI+Hackathon+2026+%F0%9F%8F%86;Computer+Vision+%26+Deep+Learning+(PyTorch%2FYOLO)+%F0%9F%91%81%EF%B8%8F;Building+Production-Grade+AI+Systems+%E2%9A%A1" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
   <!-- Connect Badges -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/zaren-ezung" target="_blank">
+    <a href="https://www.linkedin.com/in/yanthungremo-ezung" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:zarenz18@gmail.com">
@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About Me
 
-I am a **Data Scientist & Machine Learning Engineer** passionate about turning rigorous mathematical foundations into high-performance, production-ready AI applications. My core expertise spans **Computer Vision, Deep Learning (PyTorch, YOLOv8), Geospatial Data Science, and Scalable MLOps**.
+I am **Yanthungremo Ezung**, a **Data Scientist & Machine Learning Engineer** passionate about turning rigorous mathematical foundations into high-performance, production-ready AI applications. My core expertise spans **Computer Vision, Deep Learning (PyTorch, YOLOv8), Geospatial Data Science, and Scalable MLOps**.
 
 I believe in building **truthful, measurable, and deployable systems**—whether that means optimizing an anchor-free object detection pipeline to achieve sub-45ms CPU latency, computing calibrated cephalometric ratios from 468 facial landmarks, or clustering road hazard hotspots to assist civil safety infrastructure.
 
@@ -99,7 +99,7 @@ I believe in building **truthful, measurable, and deployable systems**—whether
   - **Computer Vision & Detection:** Object detection (YOLOv8), multi-object tracking, MediaPipe facial landmarks, OpenCV pipelines.
   - **Machine Learning & Analytics:** DBSCAN spatial clustering, Crash Severity Indexing (CSI), TF-IDF retrieval, quantitative time-series modeling.
   - **Applied AI & Full-Stack Deployment:** PyTorch, FastAPI, Streamlit, React Native/Expo, Docker, Baseten, Vercel.
-- 📬 **Get In Touch:** [zarenz18@gmail.com](mailto:zarenz18@gmail.com) &bull; [LinkedIn Profile](https://www.linkedin.com/in/zaren-ezung)
+- 📬 **Get In Touch:** [zarenz18@gmail.com](mailto:zarenz18@gmail.com) &bull; [LinkedIn Profile](https://www.linkedin.com/in/yanthungremo-ezung)
 
 ---
 
@@ -250,23 +250,29 @@ I believe in building **truthful, measurable, and deployable systems**—whether
 ---
 
 ### 📊 GitHub Activity & Analytics
+### 📜 Technical Accolades & Core Competencies
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ezung123&show_icons=true&theme=radical&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Zaren's GitHub Stats" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ezung123&show_icons=true&theme=radical&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Yanthungremo's GitHub Stats" height="160" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezung123&layout=compact&theme=radical&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" height="160" />
   </p>
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezung123&theme=radical&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&background=0f172a" alt="GitHub Streak" />
   </p>
 </div>
+- 🏆 **Competitor & Finalist** &bull; *Meta Global AI Developer Hackathon 2026* (Cephalometric AI, MediaPipe 468 3D Cranial Landmarks & Meta Muse Spark Reasoning &bull; *Biometric Hair Arch*)
+- 🗺️ **MoRTH Geospatial Risk Protocol** &bull; *Smart Cities & Road Safety Engineering* (IRC:SP:88-2019 Blackspot Spatial Clustering & Crash Severity Indexing &bull; *SafeRouteAi*)
+- 👁️ **Computer Vision & Object Detection** &bull; *Ultralytics YOLOv8 & PyTorch* (Real-Time Multi-Class Localization, CIoU/DFL Losses & Sub-45ms CPU Inference &bull; *YOLO Vision Platform*)
+- 🧠 **Indic Natural Language Processing** &bull; *Information Retrieval & Text Processing* (Damerau-Levenshtein Fuzzy Matching & Character N-Gram TF-IDF Architecture &bull; *BiDict*)
+- 📊 **Exploratory Data Analysis & Quant Analytics** &bull; *Statistical Data Science* (Multi-Decade Global Streaming Trends, Technical Indicator Modeling & Volatility Risk Management)
 
 ---
 
 ### 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/zaren-ezung" target="_blank">
+  <a href="https://www.linkedin.com/in/yanthungremo-ezung" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
@@ -286,4 +292,6 @@ I believe in building **truthful, measurable, and deployable systems**—whether
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
+
+
 
